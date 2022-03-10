@@ -4,6 +4,10 @@ body {
 	font-family: 'Hahmlet', serif;
 }
 
+h1 {
+	text-align: center;
+}
+
 #navigation {
 	background-color: green;
 	overflow: hidden;
