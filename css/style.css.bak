@@ -10,18 +10,16 @@ h1{
 
 p {
 	position: relative;
-	left: 10%;
-	right: 10%;
 }
 
 img {
 	max-width: auto;
-	max-height: 70%;
+	max-height: 10%;
 }
 
 video {
 	max-width: auto;
-	max-height: 30%;
+	max-height: 10%;
 }
 
 #subtitle {
