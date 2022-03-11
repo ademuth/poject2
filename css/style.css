@@ -2,11 +2,18 @@
 
 body {
 	font-family: 'Hahmlet', serif;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+p {
 	margin: 35%;
 	padding: 5%;
 }
 
-h1, h2 {
+#subtitle {
 	text-align: center;
 }
 
