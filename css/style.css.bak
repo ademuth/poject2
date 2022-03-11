@@ -4,13 +4,16 @@ body {
 	font-family: 'Hahmlet', serif;
 }
 
-h1, h2 {
+h1{
 	text-align: center;
+	position: relative;
+	top: 5%;
 }
 
 p {
-	margin: 35%;
-	padding: 5%;
+	position: relative;
+	left: 20%;
+	right: right%;
 }
 
 #subtitle {
