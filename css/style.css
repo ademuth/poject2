@@ -16,13 +16,13 @@ p {
 }
 
 img {
-	max-width: auto;
-	max-height: 10%;
+	width: auto;
+	height: 10%;
 }
 
 video {
-	max-width: auto;
-	max-height: 10%;
+	width: auto;
+	height: 10%;
 }
 
 section {
