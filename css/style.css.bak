@@ -21,13 +21,13 @@ h2, p {
 
 img {
 	max-width: auto;
-	max-height: 10%;
+	max-height: 50%;
 	border-radius: 10px;
 }
 
 video {
 	width: auto;
-	height: 1%;
+	height: 50%;
 }
 
 section {
