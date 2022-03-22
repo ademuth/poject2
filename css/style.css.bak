@@ -16,8 +16,8 @@ p {
 }
 
 img {
-	width: auto;
-	height: 10%;
+	max-width: auto;
+	max-height: 10%;
 }
 
 video {
