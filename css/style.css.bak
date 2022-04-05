@@ -20,7 +20,7 @@ h2, p {
 }
 
 img {
-	max-width: auto;
+	width: auto;
 	max-height: 50%;
 	border-radius: 10px;
 }

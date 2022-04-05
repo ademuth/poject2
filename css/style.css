@@ -1,77 +1,78 @@
 @import url('https://fonts.googleapis.com/css2?family=Hahmlet&display=swap');
 
 body {
-	font-family: 'Hahmlet', serif;
-	color: #d3d3d3;
-	background: rgb(2,0,36);
-	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(42,67,119,1) 50%, rgba(0,212,255,1) 100%);
+  font-family: 'Hahmlet', serif;
+  color: #d3d3d3;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(42,67,119,1) 50%, rgba(0,212,255,1) 100%);
 }
 
 h1{
-	text-align: center;
+  text-align: center;
 }
 
 p {
-	position: relative;
+  position: relative;
 }
 
 h2, p {
-	padding: 10px 10px;
+  padding: 10px 10px;
 }
 
 img {
-	width: auto;
-	max-height: 50%;
-	border-radius: 10px;
+  width: auto;
+  max-height: 50%;
+  border-radius: 10px;
+  float: right;
 }
 
 video {
-	width: auto;
-	height: 50%;
+  width: auto;
+  height: 50%;
+  float: right;
 }
 
 section {
-	border: 3px ;
+  border: 3px ;
 }
 
 #subtitle {
-	text-align: center;
+  text-align: center;
 }
 
 #navigation {
-	background-color: green;
-	overflow: hidden;
-	width: 100%;
-	margin: 0;
-	padding: 0;
-	position: relative;
-	float: left;
+  background-color: green;
+  overflow: hidden;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  float: left;
 }
 
 #navigation ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	position: relative;
-	left: 50%;
-	float: left;
-	
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
 }
 
 #navigation ul li {
-	float: left;
-	position: relative;
-	right: 50%;
-	display: block;
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
 }
 
 #navigation ul li a {
-	display: block;
-	padding: 10px 20px;
-	color: #fff;
-	text-decoration: none;
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
 }
 
 #navigation ul li a:hover {
-	background-color: #000;
+  background-color: #000;
 }
