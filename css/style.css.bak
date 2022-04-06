@@ -30,6 +30,10 @@ h2, p {
   float: left;
 }
 
+h3, h4, h5 {
+	float: left;
+}
+
 img {
   width: auto;
   max-height: 25%;
