@@ -14,16 +14,15 @@ h1{
 
 h2{
   font-size: 3em;
-  float: left;
 }
 
 p {
-  float: left;
   font-size: 1.2em;
 }
 
 h2, p {
   padding: 10px 10px;
+  float: left;
 }
 
 img {

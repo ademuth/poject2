@@ -14,14 +14,15 @@ h1{
 
 h2{
   font-size: 3em;
+  padding: 10px 10px;
 }
 
 p {
   font-size: 1.2em;
+  padding: 10px 10em
 }
 
 h2, p {
-  padding: 10px 10px;
   float: left;
 }
 
@@ -51,6 +52,7 @@ iframe {
 
 #subtitle {
   text-align: center;
+  float: none;
 }
 
 #navigation {
