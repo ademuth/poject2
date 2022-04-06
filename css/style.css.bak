@@ -32,14 +32,14 @@ img {
   padding: 10px 10px;
 }
 
-video {
-  width: auto;
-  height: 50%;
-  float: right;
-}
-
 section {
   border: 3px ;
+}
+
+#gabagoolvid {
+  width: auto;
+  height: 25%;
+  float: right;
 }
 
 #subtitle {
