@@ -17,7 +17,7 @@ h2{
 }
 
 p {
-  position: relative;
+  float: left;
   font-size: 1.2em;
 }
 
@@ -40,7 +40,7 @@ section {
 #gabagoolvid {
   width: auto;
   height: 50%;
-  float: right;
+  float: left;
 }
 
 #subtitle {

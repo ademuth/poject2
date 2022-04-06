@@ -39,8 +39,8 @@ section {
 
 #gabagoolvid {
   width: auto;
-  height: 25%;
-  float: right;
+  height: 50%;
+  float: left;
 }
 
 #subtitle {
