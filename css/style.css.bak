@@ -28,7 +28,7 @@ p {
 
 h3, h4, h5 {
 	float: left;
-	padding: 10px 10em
+	padding: 10px 10px
 }
 
 img {
