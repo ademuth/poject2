@@ -14,6 +14,7 @@ h1{
 
 h2{
   font-size: 3em;
+  float: left;
 }
 
 p {
@@ -28,13 +29,19 @@ h2, p {
 img {
   width: auto;
   max-height: 25%;
-  border-radius: 10px;
+  border-radius: 50px;
   float: right;
   padding: 10px 10px;
 }
 
 section {
   border: 3px ;
+}
+
+iframe {
+  width: auto;
+  height: 50%;
+  float: left;
 }
 
 #gabagoolvid {

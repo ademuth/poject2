@@ -17,18 +17,18 @@ h2{
 }
 
 p {
-  float: left;
   font-size: 1.2em;
 }
 
 h2, p {
   padding: 10px 10px;
+  float: left;
 }
 
 img {
   width: auto;
   max-height: 25%;
-  border-radius: 10px;
+  border-radius: 50px;
   float: right;
   padding: 10px 10px;
 }
