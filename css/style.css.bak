@@ -41,7 +41,6 @@ section {
   width: auto;
   height: 25%;
   float: right;
-  
 }
 
 #subtitle {
