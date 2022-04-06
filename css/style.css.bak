@@ -29,6 +29,7 @@ img {
   max-height: 50%;
   border-radius: 10px;
   float: right;
+  padding: 10px 10px;
 }
 
 video {
