@@ -37,6 +37,12 @@ section {
   border: 3px ;
 }
 
+iframe {
+  width: auto;
+  height: 50%;
+  float: left;
+}
+
 #gabagoolvid {
   width: auto;
   height: 50%;
